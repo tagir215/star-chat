@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819587950437",
+    "project_id": "star-chat-c1dcc",
+    "storage_bucket": "star-chat-c1dcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819587950437:android:3ec0018d0448acbad8e38c",
+        "android_client_info": {
+          "package_name": "com.android.starchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819587950437-2dt2lq4ms4kg2ao395fg8b4n0fnt2ovp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoIxyGQXcV_3bq5ryTDWS7j7QzOZpVGBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819587950437-2dt2lq4ms4kg2ao395fg8b4n0fnt2ovp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
