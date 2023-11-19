@@ -5,6 +5,9 @@ import android.net.Uri;
 
 import com.android.starchat.ui.uiMain.mainActivity.MainActivity;
 
+/**
+ * contact on the phone (not in the app)
+ */
 public class ContactPhone {
     private final String name;
     private final String phoneNumber;
